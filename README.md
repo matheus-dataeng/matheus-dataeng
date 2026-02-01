@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="left">Pedro | Data Engineer</h1>
+<h1 align="left">Matheus Meneses | Data Engineer</h1>
 
 <p align="left">
 Estudante focado em Engenharia de Dados, construindo pipelines ETL e automações com Python, SQL, Docker e Apache Airflow.
