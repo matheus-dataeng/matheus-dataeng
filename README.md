@@ -16,14 +16,16 @@ Busco evoluir em Lakehouse/Databricks, boas práticas de dados e projetos reais 
 ---
 
 ## 📌 Projetos em destaque
-- Pipeline ETL (Airflow + Docker) consumindo API e persistindo dados
-- Projetos com SQL (modelagem, consultas e integrações)
+- Monitoramento de combustível durante períodos festivos de 2025 em Salvador
+    - Utilizando: Python, Pandas, MySQL, Google Sheets API e GIT
+- ETL API IBGE CNAE (Classificação Nacional de Atividades Econômicas)
+  - Utilizando: Python, Pandas, SQL Server, API Rest, e GIT
 
 ---
 
 ## 📫 Contato
 <p align="left">
-  <a href="mailto:matheusmeneses134@gmail.com">
+  <a href="matheusmeneses134@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/matheus-men/">
