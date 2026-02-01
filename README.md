@@ -13,7 +13,7 @@ Atualmente, sigo aprofundando meus conhecimentos em engenharia de dados, explora
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github,sqlite,mongodb,bigquery&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,airflow,postgres,mysql,docker,git,github,sqlite,mongodb,bigquery&perline=10" />
 </p>
 ---
 
