@@ -19,6 +19,7 @@ Atualmente, sigo aprofundando meus conhecimentos em engenharia de dados, explora
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
+
 ---
 
 ## 📌 Projetos em destaque
