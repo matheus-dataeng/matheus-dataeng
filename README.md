@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</p>
 
 <h1 align="left">Matheus Meneses | Data Engineer</h1>
 
@@ -26,18 +23,11 @@ Busco evoluir em Lakehouse/Databricks, boas práticas de dados e projetos reais 
 
 ## 📫 Contato
 <p align="left">
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:matheusmeneses134@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEULINK/">
+  <a href="https://www.linkedin.com/in/matheus-men/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact" />
-</p>
