@@ -13,7 +13,11 @@ Atualmente, sigo aprofundando meus conhecimentos em engenharia de dados, explora
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,mysql,sqlite,mongodb,bigquery&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,docker,git,github,mysql,postgres,sqlite,mongodb,bigquery&perline=10" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 ---
 
