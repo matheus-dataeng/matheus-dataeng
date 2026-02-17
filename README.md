@@ -26,7 +26,7 @@ Atualmente, sigo aprofundando meus conhecimentos em engenharia de dados, explora
 - Monitoramento de combustível durante períodos festivos de 2025 em Salvador
     - Utilizando: Python, Pandas, MySQL, Google Sheets API e GIT
 - Pipeline de dados dockerizado dos dados publicos do Tesouro Direto
-  - Utilizando: Python, Pandas, PostgresSQL, GIT e Docker
+  - Utilizando: Python, Pandas, PostgresSQL, GIT, Docker e Airflow
 
 ---
 
