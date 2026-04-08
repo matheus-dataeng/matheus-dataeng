@@ -12,35 +12,33 @@ Gosto de resolver problemas de forma estruturada, escrever código legível e co
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 📌 Projetos em Destaque
 
-Python Stack Overflow — Analytics Pipeline
+📈 Python Stack Overflow — Analytics Pipeline
 
 Pipeline ETL que coleta perguntas sobre Python do Stack Overflow, processa os dados em um data lake bronze/silver/gold e carrega um modelo estrela no PostgreSQL para análise via API REST
 Stack: Python, Pandas, FastAPI, PostgreSQL, Docker, AWS S3
 
 
-Pipeline de Gastos Governamentais
+🏛️ Pipeline de Gastos Governamentais
 
 Pipeline completo de ETL para dados de gastos governamentais com modelagem dimensional, orquestração via Airflow e exposição via API FastAPI
 Stack: Python, Pandas, Airflow, PostgreSQL, Docker, FastAPI
 
 
-Pipeline de Dados do Tesouro Direto
+💰 Pipeline de Dados do Tesouro Direto
 
 Pipeline dockerizado para consolidação e estruturação de dados públicos do Tesouro Direto, orquestrado com Apache Airflow
 Stack: Python, Pandas, PostgreSQL, Docker, Airflow
 
 
-Monitoramento de Combustíveis em Salvador
+⛽ Monitoramento de Combustíveis em Salvador
 
 Monitoramento e análise de preços de combustíveis durante períodos festivos de 2025 em Salvador, com integração ao Google Sheets
 Stack: Python, Pandas, MySQL, Google Sheets API
-
 
 
 
