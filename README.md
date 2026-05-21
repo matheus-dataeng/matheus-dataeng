@@ -37,8 +37,8 @@ Stack: Python, Pandas, PostgreSQL, Docker, Airflow
 
 ⛽ Monitoramento de Combustíveis em Salvador
 
-Monitoramento e análise de preços de combustíveis durante períodos festivos de 2025 em Salvador, com integração ao Google Sheets
-Stack: Python, Pandas, MySQL, Google Sheets API
+Monitoramento e análise de preços de combustíveis durante períodos festivos de 2025 em Salvador - 2025
+Stack: Python, Pandas, Postgres, FastAPI, Airflow, Docker 
 
 
 
