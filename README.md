@@ -1,7 +1,7 @@
 <h1 align="left">Matheus Meneses | Data Engineer</h1>
 <p align="left">
-Engenheiro de Dados, com foco em construção de pipelines completos da extração ao consumo via API REST. Trabalho com arquiteturas modernas de data lake (bronze/silver/gold), modelagem dimensional e boas práticas de engenharia como logging, idempotência e separação por camadas.
-Tenho experiência prática em projetos reais envolvendo coleta de dados via API e CSV, transformação e validação com Pandas, orquestração com Apache Airflow, containerização com Docker, modelagem star schema e exposição de dados via FastAPI. Atualmente evoluindo para deploy em nuvem com AWS.
+Engenheiro de Dados, com foco em construção de pipelines completos da extração ao consumo. Trabalho com arquiteturas modernas de data lake (bronze/silver/gold), modelagem dimensional e boas práticas de engenharia.
+Tenho experiência prática em projetos reais envolvendo coleta de dados de fontes heterogêneas, transformação e validação, orquestração com Apache Airflow, containerização com Docker, modelagem star schema e exposição de dados via FastAPI. Atualmente evoluindo para deploy em nuvem com AWS.
 Gosto de resolver problemas de forma estruturadal e construir soluções que funcionam de ponta a ponta.
 </p>
 
