@@ -4,7 +4,7 @@ Engenheiro de Dados focado em pipelines completos, da extração ao consumo.
 
 Gosto de pegar um problema de dados bagunçado, fontes diferentes, formatos diferentes, qualidade duvidosa e transformar isso em algo confiável e utilizável de ponta a ponta. Já construí projetos reais assim, do zero: coleta, tratamento, orquestração automatizada e entrega final, com deploy em produção.
 
-Stack principal: Python · dbt · Apache Airflow · PostgreSQL · Docker · FastAPI · Streamlit · AWS (EC2, RDS)
+Stack principal: Python · Pyspark ·dbt · Apache Airflow · PostgreSQL · Docker · FastAPI · Streamlit · AWS (EC2, RDS)
 
 Gosto de resolver problema estruturado, testando hipóteses e construindo soluções que funcionam de verdade.
 </p>
